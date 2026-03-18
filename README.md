@@ -13,7 +13,7 @@ I am an **AI Developer** currently focused on automating HR business processes a
 - 📊 **Trading:** Active Daily Trader focusing on the Solana Ecosystem & Indonesian Stock Market.
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Python, C++, SQL
+- **Languages:** JavaScript, Python, C++, SQL
 - **AI/ML:** OpenAI API, LangChain, Pega Systems
 - **Tools:** Git, Notion, VS Code, RugCheck (for Speculative Assets)
 
